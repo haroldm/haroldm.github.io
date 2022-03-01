@@ -1,7 +1,7 @@
 window.params = {
     codeBlock: {
-        maxLines: 7,
-        lineNos: false,
+        maxLines: 1000,
+        lineNos: true,
     },
     utterances: {
         theme: "",
